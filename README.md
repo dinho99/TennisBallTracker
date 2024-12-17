@@ -9,6 +9,8 @@ This project is a computer vision application to track a ball's trajectory and d
 - **Contour and Shape Analysis**: Uses contour approximation to ensure accurate detection of circular objects.
 - **Customizable Parameters**: Allows fine-tuning of HSV color ranges, tracking buffer size, and contour thresholds.
 
+- In the project there is also a test-video used to see how it works not in webcam.
+
 ## Prerequisites
 - Python 3.6+
 - OpenCV
